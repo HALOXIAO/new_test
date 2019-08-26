@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="mybatis-3.5.2">
+    <CLASSES>
+      <root url="jar://E:/Ex-API/JAVA/mybatis-3.5.2/mybatis-3.5.2.jar!/" />
+      <root url="jar://E:/Ex-API/JAVA/mybatis-3.5.2/lib/ant-1.10.3.jar!/" />
+      <root url="jar://E:/Ex-API/JAVA/mybatis-3.5.2/lib/ant-launcher-1.10.3.jar!/" />
+      <root url="jar://E:/Ex-API/JAVA/mybatis-3.5.2/lib/asm-7.0.jar!/" />
+      <root url="jar://E:/Ex-API/JAVA/mybatis-3.5.2/lib/cglib-3.2.10.jar!/" />
+      <root url="jar://E:/Ex-API/JAVA/mybatis-3.5.2/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://E:/Ex-API/JAVA/mybatis-3.5.2/lib/javassist-3.24.1-GA.jar!/" />
+      <root url="jar://E:/Ex-API/JAVA/mybatis-3.5.2/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://E:/Ex-API/JAVA/mybatis-3.5.2/lib/log4j-api-2.11.2.jar!/" />
+      <root url="jar://E:/Ex-API/JAVA/mybatis-3.5.2/lib/log4j-core-2.11.2.jar!/" />
+      <root url="jar://E:/Ex-API/JAVA/mybatis-3.5.2/lib/ognl-3.2.10.jar!/" />
+      <root url="jar://E:/Ex-API/JAVA/mybatis-3.5.2/lib/slf4j-api-1.7.26.jar!/" />
+      <root url="jar://E:/Ex-API/JAVA/mybatis-3.5.2/lib/slf4j-log4j12-1.7.26.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
